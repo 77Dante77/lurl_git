@@ -1,0 +1,75 @@
+/* lurl032.css */
+/* marge négative haute augmentée pour les vignettes  */
+
+	body {
+		padding-top: 2rem; 
+		/*--background-image:radial-gradient(Orchid, Aquamarine); */
+		background-attachment: fixed;
+		background: linear-gradient(70deg, Aquamarine, black);
+	}
+
+	h1 {
+		text-align: center;
+		font-size: 2em;
+		text-transform: uppercase;
+	}
+
+	h3,h4 {
+		margin-left: 20;
+	}
+
+	canvas { 
+		background: #ffffff;
+		border: 6px solid yellow;
+	}
+	
+	.svgtitre { 
+		/*clear: right; */
+		text-align: center;
+		width: 88%;
+		height: 15%;
+		margin: -26px 0px 0px 0px;
+		border-width:6px;
+		border-style:solid;
+		border-color:yellow;
+	}
+
+	#graphique {
+		/*clear: both; */
+		float: left;
+		margin: 32px 6px 0px 1px ;
+		width: 80%;
+	}
+	
+	.focus { color: indigo;} 
+
+	.focusPlus { color: orangered;} 
+
+	.vignette { background: #333333; margin: -15px 8px 6px 0px;}
+
+	.agrandi { background: #333333; margin: 8px 8px 0px 0px;}
+
+	.texte { 
+		/*float: left;*/
+		width: 82%;
+		margin: 24px 8px 0px -20px;
+		border-width:6px;
+		border-style:solid;
+		border-color:yellow;
+	}
+
+	.boite {
+		float: left; 
+		clear: right;
+		margin-top: 32px;
+		margin-right: 8px;
+		background: #eeeeee;
+		width: 80%;
+		border-width:6px;
+		border-style:solid;
+		border-color:yellow;
+	}
+
+	#vignette0{
+		float: none;
+	}
