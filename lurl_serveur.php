@@ -2,7 +2,7 @@
    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
    <head>
        <title>Lurl:150105_a.php </title> 
-       <link rel="stylesheet" media="screen" type="text/css" href="./lurl032.css" />
+       <link rel="stylesheet" media="screen" type="text/css" href="./lurl_style.css" />
    </head> 
    <body style="font-family:arial;font-size:12px;">
 	
